@@ -1,0 +1,15 @@
+.tableBordered {
+    text-align: start;
+}
+.updateTD{
+    cursor: pointer;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.deleteTD{
+    cursor: pointer;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.label{
+    direction: rtl;
+    float: right;
+}
+.button{
+    direction: rtl;
+    float: right;
+    display: block;
+}

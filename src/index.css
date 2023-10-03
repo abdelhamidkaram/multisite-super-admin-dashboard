@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.gmeTLe .item-content {
+  flex-grow: 0 !important;
+  padding: 10px  !important;
+}
+
+.col{
+  padding: 0!important;
+}
+.col-md-auto{
+  padding: 0!important;
+}
+
+.rounded-circle {
+  border-radius: 50%!important;
+  background-color: rebeccapurple;
+  width: 45px;}

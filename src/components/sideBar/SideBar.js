@@ -62,7 +62,7 @@ const SideBar = () => {
               padding: "20px 5px",
             }}
           >
-            Sidebar Footer
+            منصة متكامل 
           </div>
         </CDBSidebarFooter>
       </CDBSidebar>

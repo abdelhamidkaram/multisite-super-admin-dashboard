@@ -16,11 +16,10 @@ function DeleteSite({state , handleShow , handleClose ,deleteConfirm  }) {
         keyboard={false}
       >
         <Modal.Header closeButton>
-          <Modal.Title>Modal title</Modal.Title>
+          <Modal.Title>حذف الموقع </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          I will not close if you click outside me. Don not even try to press
-          escape key.
+          هل انت متاكد من حذف الموقع ؟
         </Modal.Body>
         <Modal.Footer>
         <Button variant="secondary" onClick={handleClose}>
